@@ -1,1 +1,11 @@
-spring.application.name=spring-webflux
+spring:
+  application:
+    name: spring-webflux
+  main:
+    web-application-type: reactive
+implementation("com:
+  fasterxml:
+    jackson:
+      core:jackson-databind:2:
+        19:
+          0"):
